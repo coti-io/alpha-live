@@ -1,0 +1,24 @@
+{
+  "name": "coti-simulation",
+  "version": "1.0.0",
+  "description": "COTI -Simulation",
+  "main": "index.js",
+  "scripts": {
+    "start-prod": "cross-env NODE_ENV=production node app.js",
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "d3-force": "^1.1.0",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "force-graph": "^1.7.1",
+    "path": "^0.12.7",
+    "xg-xcharts": "^0.2.2"
+  }
+}

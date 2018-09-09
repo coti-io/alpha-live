@@ -1,0 +1,33 @@
+body {
+    background: url('./bg.jpg') left top;
+}
+
+#logo {
+    max-width: 160px;
+    margin-bottom: 30px;
+}
+select.form-control {
+    display: inline-block;
+    max-width: 40%;
+}
+
+.hide {
+    display:none;
+}
+
+.show {
+    display:block;
+}
+
+.status-title{
+    color: #0366d6;
+    font-size: 16px;
+    padding-left: 5px;
+}
+.status-line {
+    margin-bottom: 5px;
+}
+.right-side {
+    
+    float:right;
+}

@@ -1,0 +1,11 @@
+run in the cmd:
+C:\Projects\coti-live>node server.js
+
+
+
+open chrome with url:
+http://localhost:8010/
+
+
+<script src="//unpkg.com/3d-force-graph"></script>
+
